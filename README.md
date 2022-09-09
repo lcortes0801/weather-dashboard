@@ -2,7 +2,6 @@
 
 [Weather app](https://lcortes0801.github.io/weather-dashboard/) that presents weather forecast for mostly any city in the world.
 
-![](./readme/main.png)
 
 ## Getting Started
 
